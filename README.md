@@ -1,5 +1,7 @@
 # Autonomous Drone Landing on Moving Target
 
+![Drone Landing Demonstration](results/Final_Autonomous_UAV_withtrack_video2.gif)
+
 This project implements an autonomous landing system for a Parrot Mambo drone on a moving target, developed at Arizona State University.
 
 ## Project Structure
