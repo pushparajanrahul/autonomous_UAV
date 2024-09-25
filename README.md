@@ -48,9 +48,17 @@ Altitude and yaw control
 Target detection status
 Motor control signals
 
-## Contributing
+## Focus and Challenges
 
-[Include contribution guidelines here]
+As the sole developer of this project, I have:
+
+Designed and implemented the entire autonomous landing system on PArrto Minidrone Competition creating a new virtual world track for the drone.
+Developed advanced image processing algorithms for real-time target detection and tracking.
+Implemented robust PID control systems for stable flight and precise landing.
+Created an innovative path planning algorithm for efficient navigation towards a moving target.
+Integrated visual and inertial data for accurate state estimation.
+Designed and executed comprehensive testing and validation procedures.
+Optimized the system for real-time performance on the Parrot Mambo drone platform.
 
 
 ## Acknowledgements
